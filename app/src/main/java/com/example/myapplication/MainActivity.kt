@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Any code that was added
+
+        // Code related to Onboarding feature
     }
 }
